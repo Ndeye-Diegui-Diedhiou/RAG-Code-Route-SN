@@ -89,12 +89,3 @@ streamlit run app.py
 
 ---
 
-## Contribution & soumission
-- Personnalise `data/` avec tes PDF officielles.
-- Mets à jour `README.md` avec exemples réels et pushes sur GitHub.
-- Soumets le lien du repo dans le formulaire du bootcamp.
-
-Bonne chance 🎉 — si tu veux, je peux maintenant :
-- créer et zipper le dépôt amélioré (avec Cross-Encoder activé), ce que j'ai fait ici ;
-- **ou** directement pousser sur GitHub si tu me fournis un token (je te guiderai).
-
