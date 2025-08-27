@@ -1,0 +1,16 @@
+
+langchain>=0.2.14
+langchain-community>=0.2.12
+langchain-openai>=0.1.22
+faiss-cpu>=1.8.0
+pypdf>=4.2.0
+tiktoken>=0.7.0
+streamlit>=1.36.0
+sentence-transformers>=3.0.1
+rank-bm25>=0.2.2
+numpy>=1.26.4
+scikit-learn>=1.4.2
+# Cross-Encoder dependencies
+torch>=2.2.0
+transformers>=4.42.0
+accelerate>=0.33.0
